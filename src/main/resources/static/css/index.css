@@ -1,0 +1,12 @@
+body{
+	background-color:gray;
+}
+table{
+	background-color:orange;
+	border: 5px solid black;
+}
+tr:hover {
+	background-color: red;
+}
+
+a{color:blue;}
